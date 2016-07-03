@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://harrykim.github.io//</loc>
-    <lastmod>2016-07-03T13:44:56-07:00</lastmod>
+    <lastmod>2016-07-03T13:51:41-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -21,48 +21,9 @@
     </url>
   
     <url>
-      <loc>http://harrykim.github.io//post1.html</loc>
-      
-        <lastmod>2013-06-05T00:00:00-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
       <loc>http://harrykim.github.io//post2.html</loc>
       
         <lastmod>2013-05-27T00:00:00-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://harrykim.github.io//post2.html</loc>
-      
-        <lastmod>2013-05-27T00:00:00-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://harrykim.github.io//post3.html</loc>
-      
-        <lastmod>2013-04-02T00:00:00-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -99,48 +60,9 @@
     </url>
   
     <url>
-      <loc>http://harrykim.github.io//post4.html</loc>
-      
-        <lastmod>2013-03-15T00:00:00-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
       <loc>http://harrykim.github.io//post5.html</loc>
       
         <lastmod>2013-02-10T00:00:00-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://harrykim.github.io//post5.html</loc>
-      
-        <lastmod>2013-02-10T00:00:00-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-    <url>
-      <loc>http://harrykim.github.io//post6.html</loc>
-      
-        <lastmod>2013-01-24T00:00:00-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -176,50 +98,11 @@
       
     </url>
   
-    <url>
-      <loc>http://harrykim.github.io//post7.html</loc>
-      
-        <lastmod>2012-11-04T00:00:00-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.5</priority>
-      
-    </url>
-  
-  
-  <url>
-    <loc>http://harrykim.github.io//charm/404</loc>
-    
-      <lastmod>2016-07-03T13:44:56-07:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
   
   <url>
     <loc>http://harrykim.github.io//404</loc>
     
-      <lastmod>2016-07-03T13:44:56-07:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://harrykim.github.io//charm/atom.xml</loc>
-    
-      <lastmod>2016-07-03T13:44:56-07:00</lastmod>
+      <lastmod>2016-07-03T13:51:41-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -232,20 +115,7 @@
   <url>
     <loc>http://harrykim.github.io//atom.xml</loc>
     
-      <lastmod>2016-07-03T13:44:56-07:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://harrykim.github.io//charm/blog</loc>
-    
-      <lastmod>2016-07-03T13:44:56-07:00</lastmod>
+      <lastmod>2016-07-03T13:51:41-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -258,20 +128,7 @@
   <url>
     <loc>http://harrykim.github.io//blog</loc>
     
-      <lastmod>2016-07-03T13:44:56-07:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://harrykim.github.io//charm/</loc>
-    
-      <lastmod>2016-07-03T13:44:56-07:00</lastmod>
+      <lastmod>2016-07-03T13:51:41-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -284,20 +141,7 @@
   <url>
     <loc>http://harrykim.github.io//</loc>
     
-      <lastmod>2016-07-03T13:44:56-07:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://harrykim.github.io//charm/projects</loc>
-    
-      <lastmod>2016-07-03T13:44:56-07:00</lastmod>
+      <lastmod>2016-07-03T13:51:41-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -310,20 +154,7 @@
   <url>
     <loc>http://harrykim.github.io//projects</loc>
     
-      <lastmod>2016-07-03T13:44:56-07:00</lastmod>
-    
-    
-      <changefreq>monthly</changefreq>
-    
-    
-      <priority>0.3</priority>
-    
-  </url>
-  
-  <url>
-    <loc>http://harrykim.github.io//charm/sitemap.xml</loc>
-    
-      <lastmod>2016-07-03T13:44:56-07:00</lastmod>
+      <lastmod>2016-07-03T13:51:41-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -336,7 +167,7 @@
   <url>
     <loc>http://harrykim.github.io//sitemap.xml</loc>
     
-      <lastmod>2016-07-03T13:44:56-07:00</lastmod>
+      <lastmod>2016-07-03T13:51:41-07:00</lastmod>
     
     
       <changefreq>monthly</changefreq>

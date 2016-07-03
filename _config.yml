@@ -11,17 +11,17 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://charmainetham.github.io/
+url: http://harrykim.github.io/
 baseurl: '/'
-title: Charmaine Tham
-author: Charmaine Tham
-description: Portfolio
+title: Harry Kim
+author: Harry Kim
+description: Resume & Portfolio
 avatar: profile.png
-email: charmainetham@gmail.com
-github: charmainetham # username
-twitter: charmtham
-linkedin: username
-google_analytics: //
+email: harrykim5767@gmail.com
+github: harrykim # username
+# twitter: charmtham
+# linkedin: username
+# google_analytics: //
 
 
 

@@ -4,14 +4,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="Harry Kim" />
-    <meta name="description" content="Portfolio">
+	  <meta name="author" content="Harry Kim" />
+    <meta name="description" content="Resume & Portfolio">
     <link rel="favicon" href="/static/img/favicon.ico">
 
     
-      <title>Harry Kim</title>
+      <title>Projects</title>
     
-  
+	
     <!-- Bootstrap -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ=="
@@ -24,10 +24,10 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-  <!-- Custom styles for this template -->
+	<!-- Custom styles for this template -->
     <link rel="stylesheet" type="text/css" href="/static/css/main.css" />
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
-  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
   <link rel="stylesheet" type="text/css" href="/static/css/syntax.css" />
 
     <!-- Google Analytics -->
@@ -37,7 +37,7 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', '//', 'auto');
+  ga('create', '', 'auto');
   ga('send', 'pageview');
 
 </script>
@@ -55,39 +55,44 @@
     <div id="navbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="/projects.html">PROJECTS</a></li>
-        <li><a href="https://resume.creddle.io/resume/h5nv0ge2dqr">RESUME</a></li>
-        <li><a href="/contact.html">CONTACT ME</a></li>
+        <li><a href="https://resume.creddle.io/resume/dawc8dptsh4">RESUME</a></li>
+<!--         <li><a href="/contact.html">CONTACT ME</a></li> -->
       </ul>
     </div>
   </div>
 </nav>
 
-
-<section id="contact">
+    <section id="projects">
 <div class="container">
-  <h3>Contact Me</h3>
-  <div class="messagearea">
-    <form action="https://getsimpleform.com/messages?form_api_token=79ec3a56272a809c9a2ce85dbc7b9236." method="post">
+  <h3>Projects</h3>
+  <div class="panel panel-default">
+    <div class="panel-body">
 
-      <div class="form-group">
-      <label for="name"> Name: </label>
-      <input type="name" name="name"class="form-control" id="name">
+			<img class = "thumbnail" src="/static/img/vroomio.png" height="200px", width="260px">
+      <h5 class = "details">
+      <strong><a href="http://vroomio.club">Vroomio </a></strong>
+			A classic multiplayer game where you can live chat, video chat and play with other players built on Phaser and Express using Socket.IO, Node.js and HTML/CSS/JavaScript. 
+		</h5>
+		<hr>
+		<h5>
+			<img class = "thumbnail" src="/static/img/cato.png" height="200px", width="260px"><strong><a href="https://github.com/Harrykim/CatoPro">Cato Pro</a></strong>
+		An app that enables users to request for a random fight and other users can accept the challenge. First implementation of Sinatra and built in 4 days.
+		</h5>
+		<hr>
+    	<h5>
+			<img class = "thumbnail" src="/static/img/pong.png" height="200px", width="260px"><strong><a href="https://dl.dropboxusercontent.com/s/jlsxjhm26g4b6aj/game.html?dl=0">Pong Game</a></strong>
+			 A simple 1 player pong game.
+		</h5>
+		<hr>
+
+
+
+
     </div>
-     <div class="form-group">
-      <label for="email">Email address:</label>
-      <input type="email" name="email" class="form-control" id="email">
-    </div>
-    <div class="form-group">
-      <label for="comment">Comment:</label>
-      <textarea class="form-control" name="message"rows="5" id="comment"></textarea>
-    </div>
-    
-    <input type='submit' value='Submit!' />
-    </form>
   </div>
-      
 </div>
 </section>
+
 
 
   </div>
@@ -102,7 +107,7 @@
 </footer>
 <div class="footer"></div>
 
-    
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Bootstrap core JavaScript -->
@@ -110,10 +115,9 @@
     integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ=="
     crossorigin="anonymous"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-  <script src="/static/js/docs.min.js"></script>
+	<script src="/static/js/docs.min.js"></script>
     <script src="/static/js/main.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="/static/js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
-
